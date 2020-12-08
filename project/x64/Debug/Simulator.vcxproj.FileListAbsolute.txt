@@ -1,0 +1,2 @@
+C:\Users\KennethHoeBaunsgaard\Git\FCND-Estimation-CPP\project\x64\Debug\Simulator.exe
+C:\Users\KennethHoeBaunsgaard\Git\FCND-Estimation-CPP\project\x64\Debug\Simulator.pdb
